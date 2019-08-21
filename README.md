@@ -57,24 +57,21 @@ In this four-course Specialization, you’ll explore exciting opportunities for AI
 
 
 ## Course - 3
-### Natural Language Processing in TensorFlow - [Coursera](https://www.coursera.org/learn/natural-language-processing-tensorflow) - [GitHub](https://github.com/MrinmoiHossain/TensorFlow-in-Practice-Coursera/tree/master/Course_3-Natural_Language_Processing_in_TensorFlow) - [Certificate]()
+### Natural Language Processing in TensorFlow - [Coursera](https://www.coursera.org/learn/natural-language-processing-tensorflow) - [GitHub](https://github.com/MrinmoiHossain/TensorFlow-in-Practice-Coursera/tree/master/Course_3-Natural_Language_Processing_in_TensorFlow) - [Certificate](https://www.coursera.org/account/accomplishments/certificate/ETP96Q6QVCLZ)
 
 #### Table of Contents
 * [Week 1](https://github.com/MrinmoiHossain/TensorFlow-in-Practice-Coursera/tree/master/Course_3-Natural_Language_Processing_in_TensorFlow/Week-1)
     * Lesson Topic: Tokenizer (tf.keras.preprocessing.text), pad_sequence (tf.keras.preprocessing.sequence)
     * Quiz: Tokenizer
-* [Week 2]()
-    * Lesson Topic: 
-    * Quiz: 
-    * Assignment: 
-    * Optional: 
-* [Week 3]()
-    * Lesson Topic: 
-    * Quiz: 
-    * Assignment: 
-    * Optional: 
-* [Week 4]()
-    * Lesson Topic: 
-    * Quiz: 
-    * Assignment: 
-    * Optional: 
+* [Week 2](https://github.com/MrinmoiHossain/TensorFlow-in-Practice-Coursera/tree/master/Course_3-Natural_Language_Processing_in_TensorFlow/Week-2)
+    * Lesson Topic: IMDB Datasets, Tesorflow Datasets, Subwords Text Encoder
+    * Quiz: IMDB Datasets
+    * Optional: BBC news archive
+* [Week 3](https://github.com/MrinmoiHossain/TensorFlow-in-Practice-Coursera/tree/master/Course_3-Natural_Language_Processing_in_TensorFlow/Week-3)
+    * Lesson Topic: Sequence Modeling, LSTM, Accuracy and Loss, Convolutional Network
+    * Quiz: LSTM, GRU, Conv1D and NLP
+    * Optional: Single Layer LSTM, Multi Layer LSTM, 1D Convolutional Layer, Bidirectional LSTM, GRU, Exploring overfitting in NLP
+* [Week 4](https://github.com/MrinmoiHossain/TensorFlow-in-Practice-Coursera/tree/master/Course_3-Natural_Language_Processing_in_TensorFlow/Week-4)
+    * Lesson Topic: Sequence Models and Literature
+    * Quiz: Tokenizer, Conv1D, Datasets, Padding, Prediction, LSTM
+    * Optional: Shakespeare
