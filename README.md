@@ -1,8 +1,6 @@
 <div align="center">
-    <div style="background:linear-gradient( rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6) ), url(null);background-size:cover;background-position:center;" class="header theme-dark vertical-box align-items-absolute-center" data-reactid="402">
-        <h1>TensorFlow in Practice</h1>
-	<h2>deeplearning.ai</h2>
-    </div>
+    <h1>TensorFlow in Practice</h1>
+    <h2>deeplearning.ai</h2>
     <p>N.B.: Please don't use the assignment and quiz solution at first time, only use when you get stuck really bad situation. Try to solve the problem by yourself.</p>
 </div>
 
@@ -79,14 +77,13 @@ In this four-course Specialization, you’ll explore exciting opportunities for AI
 
 
 ## Course - 4
-### Sequences, Time Series and Prediction - [Coursera](https://www.coursera.org/learn/tensorflow-sequences-time-series-and-prediction) - [GitHub]() - [Certificate]()
+### Sequences, Time Series and Prediction - [Coursera](https://www.coursera.org/learn/tensorflow-sequences-time-series-and-prediction) - [GitHub](https://github.com/MrinmoiHossain/TensorFlow-in-Practice-Coursera/tree/master/Course_4-Sequences_Time_Series_and_Prediction) - [Certificate]()
 
 #### Table of Contents
-* [Week 1]()
-    * Lesson Topic: 
-    * Quiz: 
-    * Assignment: 
-    * Optional: 
+* [Week 1](https://github.com/MrinmoiHossain/TensorFlow-in-Practice-Coursera/tree/master/Course_4-Sequences_Time_Series_and_Prediction/Week-1)
+    * Lesson Topic: Introduction of time series, Errors, MSE, RMSE, MAE, MAPE, Forecasting
+    * Quiz: Different Types of Time Series with Example
+    * Optional: Create and predict synthetic data
 * [Week 2]()
     * Lesson Topic: 
     * Quiz: 
