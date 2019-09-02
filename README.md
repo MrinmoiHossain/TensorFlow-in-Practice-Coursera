@@ -1,7 +1,8 @@
 <div align="center">
-    <img src="./background.png">
-    <h1>TensorFlow in Practice</h1>
-    <h2>deeplearning.ai</h2>
+    <div style="background:linear-gradient( rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6) ), url(null);background-size:cover;background-position:center;" class="header theme-dark vertical-box align-items-absolute-center" data-reactid="402">
+        <h1>TensorFlow in Practice</h1>
+	<h2>deeplearning.ai</h2>
+    </div>
     <p>N.B.: Please don't use the assignment and quiz solution at first time, only use when you get stuck really bad situation. Try to solve the problem by yourself.</p>
 </div>
 
@@ -75,3 +76,29 @@ In this four-course Specialization, you’ll explore exciting opportunities for AI
     * Lesson Topic: Sequence Models and Literature
     * Quiz: Tokenizer, Conv1D, Datasets, Padding, Prediction, LSTM
     * Optional: Shakespeare
+
+
+## Course - 4
+### Sequences, Time Series and Prediction - [Coursera](https://www.coursera.org/learn/tensorflow-sequences-time-series-and-prediction) - [GitHub]() - [Certificate]()
+
+#### Table of Contents
+* [Week 1]()
+    * Lesson Topic: 
+    * Quiz: 
+    * Assignment: 
+    * Optional: 
+* [Week 2]()
+    * Lesson Topic: 
+    * Quiz: 
+    * Assignment: 
+    * Optional: 
+* [Week 3]()
+    * Lesson Topic: 
+    * Quiz: 
+    * Assignment: 
+    * Optional: 
+* [Week 4]()
+    * Lesson Topic: 
+    * Quiz: 
+    * Assignment: 
+    * Optional: 
