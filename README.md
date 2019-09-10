@@ -10,6 +10,7 @@
 In this four-course Specialization, you値l explore exciting opportunities for AI applications. Begin by developing an understanding of how to build and train neural networks. Improve a network痴 performance using convolutions as you train it to identify real-world images. You値l teach machines to understand, analyze, and respond to human speech with natural language processing systems. Learn to process text, represent sentences as vectors, and input data to a neural network. You値l even train an AI to create original poetry! - <a href="https://www.coursera.org/specializations/tensorflow-in-practice">Source</a></p>
 
 ### Resources
+* Huber Loss: https://en.wikipedia.org/wiki/Huber_loss
 
 ## Course - 1
 ### Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning - [Coursera](https://www.coursera.org/learn/introduction-tensorflow) - [GitHub](https://github.com/MrinmoiHossain/TensorFlow-in-Practice-Coursera/tree/master/Course_1-Introduction_to_TensorFlow_for_Artificial_Intelligence_Machine_Learning_and_Deep%20Learning) - [Certificate](https://www.coursera.org/account/accomplishments/certificate/PHZMUR44D3W9)
@@ -77,25 +78,22 @@ In this four-course Specialization, you値l explore exciting opportunities for AI
 
 
 ## Course - 4
-### Sequences, Time Series and Prediction - [Coursera](https://www.coursera.org/learn/tensorflow-sequences-time-series-and-prediction) - [GitHub](https://github.com/MrinmoiHossain/TensorFlow-in-Practice-Coursera/tree/master/Course_4-Sequences_Time_Series_and_Prediction) - [Certificate]()
+### Sequences, Time Series and Prediction - [Coursera](https://www.coursera.org/learn/tensorflow-sequences-time-series-and-prediction) - [GitHub](https://github.com/MrinmoiHossain/TensorFlow-in-Practice-Coursera/tree/master/Course_4-Sequences_Time_Series_and_Prediction) - [Certificate](https://www.coursera.org/account/accomplishments/certificate/QVQLCBLEHLHS)
 
 #### Table of Contents
 * [Week 1](https://github.com/MrinmoiHossain/TensorFlow-in-Practice-Coursera/tree/master/Course_4-Sequences_Time_Series_and_Prediction/Week-1)
     * Lesson Topic: Introduction of time series, Errors, MSE, RMSE, MAE, MAPE, Forecasting
     * Quiz: Different Types of Time Series with Example
     * Optional: Create and predict synthetic data
-* [Week 2]()
-    * Lesson Topic: 
-    * Quiz: 
-    * Assignment: 
-    * Optional: 
-* [Week 3]()
-    * Lesson Topic: 
-    * Quiz: 
-    * Assignment: 
-    * Optional: 
-* [Week 4]()
-    * Lesson Topic: 
-    * Quiz: 
-    * Assignment: 
-    * Optional: 
+* [Week 2](https://github.com/MrinmoiHossain/TensorFlow-in-Practice-Coursera/tree/master/Course_4-Sequences_Time_Series_and_Prediction/Week-2)
+    * Lesson Topic: Preparing Features and Labels, Sequence Bias, Feeding Windowed Dataset, Single Layer NN, Time Windows, Prediction, DNN Training-Tuning-Prediction, DNN
+    * Quiz: Time Windows, Types of Error, Callbacks, Learning Rate
+    * Optional: Predict with a DNN
+* [Week 3](https://github.com/MrinmoiHossain/TensorFlow-in-Practice-Coursera/tree/master/Course_4-Sequences_Time_Series_and_Prediction/Week-3)
+    * Lesson Topic: RNN, Lambda Layers, Huber Loss, LSTM
+    * Quiz: RNN, Loss, LSTM
+    * Optional: Mean Absolute Error
+* [Week 4](https://github.com/MrinmoiHossain/TensorFlow-in-Practice-Coursera/tree/master/Course_4-Sequences_Time_Series_and_Prediction/Week-4)
+    * Lesson Topic: Convolutions, Bi-directional LSTMs, Batch Size, Real Data with Train-Tune-Prediction
+    * Quiz: Convolution, CSV File, Error, Time Series
+    * Optional: Sunspots
